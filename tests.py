@@ -8,7 +8,7 @@ import calculator
 class TestOperation(unittest.TestCase):
 
     def test_sum(self):
-        return self.assertEqual(calculator(5, 5) )
+        return self.assertEqual(calculator(5, 5, 10), sum)
 
     def test_subtract(self):
         pass
