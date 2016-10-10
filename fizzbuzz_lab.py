@@ -17,5 +17,5 @@ def fizz_buzz(n):    # name of function
     else:
         return str(n)
 
-print("\n".join(fizz_buzz(n) for n in xrange(1, 105))  # prints that returns output in range of 1 to 105
+print("\n".join(fizz_buzz(n) for n in xrange(1, 105))   # printing answers
 
