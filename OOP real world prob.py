@@ -31,6 +31,6 @@ fellow2 = Andelan('Kenya', 'Nairobi', 'kironde', 'victor', 'fellow', 500, )
 bootcamper3 = Andelan('Kenya', 'Nairobi', 'scott', 'businge', 'b.c', 500, )
 
 print(employee1.email)                                                             # print returns
-print(fellow2.email)                                                              
+print(fellow2.email)
 print(bootcamper3.email)
 print(employee1.logo)
