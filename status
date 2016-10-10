@@ -1,0 +1,85 @@
+[33mcommit b3ccd254ef4a883fe1f79f9504daa260dc2bb740[m
+Merge: ffa0674 f8d6cec
+Author: Scott B5 <busingescott@gmail.com>
+Date:   Mon Oct 10 12:15:03 2016 +0300
+
+    Merge branch 'master' of https://github.com/scott45/Andela-boot-camp-answers-
+
+[33mcommit ffa0674f6246ce4ceea47be43ed662190646841d[m
+Author: Scott B5 <busingescott@gmail.com>
+Date:   Mon Oct 10 12:14:15 2016 +0300
+
+    added fizzbuzz and modified OOP
+
+[33mcommit f8d6ceceda0d4b600739516ad60b6d7af7f3d426[m
+Author: scott45 <busingescott@gmail.com>
+Date:   Mon Oct 10 11:31:26 2016 +0300
+
+    Update README.md
+
+[33mcommit 96109f30cf10c8a4e1e9e977a59d3b34c4b72d1c[m
+Author: scott45 <busingescott@gmail.com>
+Date:   Sun Oct 9 20:08:47 2016 +0300
+
+    Delete simple user interface created using HTML and CSS.
+
+[33mcommit c204b0ed3223740920ffba4369c4ee9ec3132094[m
+Author: scott45 <busingescott@gmail.com>
+Date:   Sun Oct 9 19:09:46 2016 +0300
+
+    Create simple user interface created using HTML and CSS.
+
+[33mcommit 2900b48982f255df59ce56eddd24626df53b54a0[m
+Author: Scott B5 <busingescott@gmail.com>
+Date:   Sun Oct 9 18:56:38 2016 +0300
+
+    commit
+
+[33mcommit 7cd11fa86a25758ad70fc65ad3fb31740f42ffd9[m
+Merge: b41c32b a168815
+Author: Scott B5 <busingescott@gmail.com>
+Date:   Sun Oct 9 18:43:33 2016 +0300
+
+    Merge branch 'master' of https://github.com/scott45/Andela-boot-camp-answers-
+
+[33mcommit b41c32bc78a5388fad1deda308fe52b828c62974[m
+Author: Scott B5 <busingescott@gmail.com>
+Date:   Sun Oct 9 17:46:50 2016 +0300
+
+    modified oop
+
+[33mcommit aad91132f8051f7f8815afac914c17c876dbd0d6[m
+Author: Scott B5 <busingescott@gmail.com>
+Date:   Sun Oct 9 17:26:47 2016 +0300
+
+    added solution to outcome 4 / home day 1.. OOP
+
+[33mcommit a168815848b90e086a8e5cce168d32fde033a17c[m
+Author: scott45 <busingescott@gmail.com>
+Date:   Sat Oct 8 20:04:05 2016 +0300
+
+    Create README.md
+
+[33mcommit 05552c8fece2b89089ec76c06cbd7c284aa70222[m
+Author: Scott B5 <busingescott@gmail.com>
+Date:   Sat Oct 8 18:59:09 2016 +0300
+
+    other changes and modifications, and completed prime and fibonacci numbers
+
+[33mcommit e16752b496708a88a0856eb6a4a1142478744d9a[m
+Author: Scott B5 <busingescott@gmail.com>
+Date:   Fri Oct 7 16:34:33 2016 +0300
+
+    did the fibonacci number
+
+[33mcommit 1fc11c427e2a6d1c27c1ae5c3280fcee01e03ee2[m
+Author: Scott B5 <busingescott@gmail.com>
+Date:   Fri Oct 7 16:24:18 2016 +0300
+
+    second commit, added prime number functions
+
+[33mcommit 96b6bd56fe6d90808d8b742323ea5ec3fece1ebf[m
+Author: Scott B5 <busingescott@gmail.com>
+Date:   Fri Oct 7 15:09:23 2016 +0300
+
+    my first commit of clinic day of both git and TDD
