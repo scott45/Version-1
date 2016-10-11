@@ -1,6 +1,6 @@
 # __author__ = 'Scott Businge'
 
-def max_min(array):                      # function definition
+def find_max_min(array):                      # function definition
     ans = []                             # list to be checked
     max_num = max(array)
     min_num = min(array)
@@ -13,4 +13,4 @@ def max_min(array):                      # function definition
     ans.append(max_num)
     return ans
 
-print(max_min([1, 3, 5, 46, 79, 40]))
+print(find_max_min([1, 2, 3, 4]))
