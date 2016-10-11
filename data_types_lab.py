@@ -34,6 +34,8 @@ def data_type(value):
 
 '''
 # comment
-used the built in type() function to check the type of argument passed. for examlpe, to to check whether a value is an
+used the built in type() function to check the type of argument passed. for example, to to check whether a value is an
  integer, do: if type(value) == int, for strings, do :if type(value) == str, for booleans, do: if value is True/False
+
 '''
+
